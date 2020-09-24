@@ -1,0 +1,1 @@
+A Reinforcement learning platform that you give buy, sell and hold signals with a probability that are created from technichal indicators or an AI predictor model and it learns to manage you portfolio
